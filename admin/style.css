@@ -1,0 +1,88 @@
+.premium{
+	border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #444;
+    height: 100px;
+    width: 50%;
+    margin: auto;
+}
+.prembutton {
+    background-color: #04AD8E;
+    width: 32%;
+	color: #fff;
+    height: 50%;
+    float: right;
+    margin-right: 20px;
+    margin-top: 25px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+	background-image: url(../images/pcon.png)!important;
+	background-repeat: no-repeat!important;
+	background-position: left!important;				
+    background-position-x: 10px!important;
+}
+.prembutext {
+    float: right;
+    margin-right: 5%;
+	margin-top: 3%;
+}
+span.prembutext_header {
+    float: right;
+    margin-right: 25%;
+    font-weight: bold;
+    font-size: 16px;
+}
+.prembutton:hover{
+    background-color: #0D3E35;
+}
+.ptext {
+    color: #fff;
+    padding-top: 5%;
+    padding-left: 3%;
+	font-size: 14px;
+}
+.premium_title{
+	padding-top: 4%;
+	color:#7D0742;
+}
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableRow1{
+	display: table-row;
+	background-color: #F9F9F9;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 0px ;
+	width: 50%;
+	color: #450B6F;
+    vertical-align: middle;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
